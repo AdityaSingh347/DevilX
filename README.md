@@ -8,25 +8,20 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/MrHacker-X"><img title="Github" src="https://img.shields.io/badge/MrHacker-X-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/VritraSecz"><img title="Github" src="https://img.shields.io/badge/VritraSecz-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/@Technolex"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Technolex-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MrHacker-X"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
-<a href="https://github.com/MrHacker-X"><img title="Followers" src="https://img.shields.io/github/followers/MrHacker-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/MrHacker-X"><img title="Stars" src="https://img.shields.io/github/stars/MrHacker-X/DevilX?color=red&style=flat-square"></a>
-<a href="https://github.com/MrHacker-X"><img title="Forks" src="https://img.shields.io/github/forks/MrHacker-X/DevilX?color=red&style=flat-square"></a>
-<a href="https://github.com/MrHacker-X"><img title="Watching" src="https://img.shields.io/github/watchers/MrHacker-X/DevilX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/VritraSecz"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
+<a href="https://github.com/VritraSecz"><img title="Followers" src="https://img.shields.io/github/followers/VritraSecz?color=blue&style=flat-square"></a>
+<a href="https://github.com/VritraSecz"><img title="Stars" src="https://img.shields.io/github/stars/VritraSecz/DevilX?color=red&style=flat-square"></a>
+<a href="https://github.com/VritraSecz"><img title="Forks" src="https://img.shields.io/github/forks/VritraSecz/DevilX?color=red&style=flat-square"></a>
+<a href="https://github.com/VritraSecz"><img title="Watching" src="https://img.shields.io/github/watchers/VritraSecz/DevilX?label=Watchers&color=blue&style=flat-square"></a>
 
 </p>
 
 ``` Author: Alex Butler ```
-```
-* Updated on 1 feb 2024
-~ Issue fixed
-~ Enhanced User experience
-~ Added new features
-```
+
 
 ## Introduction
 
@@ -82,7 +77,7 @@ Ready to embark on a hacking adventure with DevilX? Connect with me on Instagram
 + `apt update -y`
 + `apt upgrade -y`
 + `apt install git -y`
-+ `git clone https://github.com/MrHacker-X/DevilX.git/`
++ `git clone https://github.com/VritraSecz/DevilX.git/`
 + `cd DevilX`
 + `chmod +x *`
 + `bash setup.sh`
@@ -91,7 +86,7 @@ Ready to embark on a hacking adventure with DevilX? Connect with me on Instagram
 ## Single Line Installation
 
 ```
-apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/MrHacker-X/DevilX.git/;cd DevilX;chmod +x *;bash setup.sh;python devilx.py
+apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/VritraSecz/DevilX.git/;cd DevilX;chmod +x *;bash setup.sh;python devilx.py
 ```
 
 ## Screenshots
@@ -101,10 +96,10 @@ apt update -y;apt upgrade -y;apt install git -y;git clone https://github.com/MrH
 
 ## Some Popular repository:
 + You can check it out
-<p align="center"><a href="https://github.com/MrHacker-X/BruteX.git/"><img title="BruteX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=BruteX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/TraceX.git/"><img title="TraceX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=TraceX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/LinuxX.git/"><img title="LinuxX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=LinuxX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/InfoGX.git/"><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=InfoGX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/ScannerX.git/"><img title="ScannerX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=ScannerX&theme=dark"></a>
+<p align="center"><a href="https://github.com/VritraSecz/BruteX.git/"><img title="BruteX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=BruteX&theme=dark"></a>
+<p align="center"><a href="https://github.com/VritraSecz/TraceX.git/"><img title="TraceX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=TraceX&theme=dark"></a>
+<p align="center"><a href="https://github.com/VritraSecz/LinuxX.git/"><img title="LinuxX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=LinuxX&theme=dark"></a>
+<p align="center"><a href="https://github.com/VritraSecz/InfoGX.git/"><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=InfoGX&theme=dark"></a>
+<p align="center"><a href="https://github.com/VritraSecz/ScannerX.git/"><img title="ScannerX" src="https://github-readme-stats.vercel.app/api/pin/?username=VritraSecz&repo=ScannerX&theme=dark"></a>
 
 

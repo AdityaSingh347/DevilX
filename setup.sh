@@ -7,7 +7,7 @@ echo -e "\033[1;91m
 █  ████  ██  ██████████    ████  ██  █████████  ██  ██
 █       ███        █████  █████  ██        ██  ████  █
 ██████████████████████████████████████████████████████
-     \033[1;90m github.com/MrHacker-X     ~  \033[1;92m  Version: 1.1.2 "
+     \033[1;90m github.com/VritraSecz     ~  \033[1;92m  Version: 1.1.2 "
 
 echo -e "\n\033[1;90m~ All the necessary packages and modules is about to install in your termux"
 echo -e "\033[1;94m"
